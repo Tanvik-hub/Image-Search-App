@@ -20,6 +20,7 @@ This project is a web application that allows users to search for images using t
 1. Enter a search term in the input field.
 2. Click the "Search" button to see related images.
 3. Click the "Show More" button to load more images.
+4. when you click on a picture it will redirect to unsplash website.
 
 **Contributing**
 - Contributions are welcome! Please fork the repository and create a pull request with your changes.
