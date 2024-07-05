@@ -25,6 +25,4 @@ This project is a web application that allows users to search for images using t
 **Contributing**
 - Contributions are welcome! Please fork the repository and create a pull request with your changes.
 
-**License**
-- This project is licensed under the MIT License.
 
